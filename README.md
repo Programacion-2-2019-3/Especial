@@ -18,8 +18,16 @@ Si ya se ha instalado Anaconda, por defecto se instala "conda".  Esto significa 
 
 **pip install nltk** (si no se hace por conda, si no por pip), esto si se busca isntalar el paquete nltk. Este procedimiento descarga el paquete y a continuación lo instala.
 
-.
-.
+![Instalar con pip](/Images/prompt_install02.png)
+
+![Instalar con pip](/Images/prompt_install03.png)
+Presionar tecla **enter** o tecla **y**
+
+![Instalar con pip](/Images/prompt_install04.png)
+Iniciando la descarga ...
+
+![Instalar con pip](/Images/prompt_install05.png)
+Paquete instalado completamente
 
 2.2. Descargar el paquete y luego instalarlo.
 .
