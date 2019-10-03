@@ -72,5 +72,9 @@ A partir de este momento se puede navegar por los directorios hasta encontrar la
     
   5.2 Crear archivo nuevo
   
-    Hacer clic en New y seleccionar Python 3 (o el deseado).  Y empezar a editar, ya sea en código Python o código Markdown
+    Hacer clic en New y seleccionar Python 3 (o el deseado).
+    
+    Y empezar a editar, ya sea en código Python o código Markdown.
+    **faiverht@gmail.com**
+    
 
