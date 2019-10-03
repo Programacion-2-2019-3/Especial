@@ -67,6 +67,9 @@ Se abre una ventana de navegación en el navegador por defecto
 A partir de este momento se puede navegar por los directorios hasta encontrar la ubicación deseada, ya sea para abrir un archivo existente o para crear uno nuevo.
 
   5.1 Abrir archivo existente
-  
+    
+    Buscar y hacer clic
+    
   5.2 Crear archivo nuevo
+    Hacer clic en New y seleccionar Python 3 (o el deseado).  Y empezar a editar, ya sea en código Python o código Markdown
 
