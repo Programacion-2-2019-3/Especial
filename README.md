@@ -75,6 +75,14 @@ A partir de este momento se puede navegar por los directorios hasta encontrar la
     Hacer clic en New y seleccionar Python 3 (o el deseado).
     
     Y empezar a editar, ya sea en código Python o código Markdown.
-    faiverht@gmail.com
+    
+  6 Para trabajar con NLTK
+  
+    Para aplicar correctamente "stopwords"
+    ![Ejecutar Spyder](/Images/prompt_download.png)
+    
+    
+    
+    **faiverht@gmail.com**
     
 
