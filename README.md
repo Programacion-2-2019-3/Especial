@@ -79,7 +79,7 @@ A partir de este momento se puede navegar por los directorios hasta encontrar la
   6 Para trabajar con NLTK
   
     Para aplicar correctamente "stopwords"
-    ![nltk downloader](/Images/prompt_download.png)
+![nltk downloader](/Images/prompt_download.png)
     
     
     
